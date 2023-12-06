@@ -1,3 +1,3 @@
-module github.com/sourcegraph/go-lsp
+module github.com/vyPal/go-lsp
 
 go 1.14
